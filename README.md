@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karn8
 - 👀 I’m interested in mobile application development / flutter development
 - 🌱 I’m currently learning UI implementation on flutter
-- 💞️ I’m looking to collaborate on android application projectss
+- 💞️ I’m looking to collaborate on android application projects
 - 📫 (gupta.karanp@gmail.com)
 
 <!---
