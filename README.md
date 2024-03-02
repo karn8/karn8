@@ -54,8 +54,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=BeeNine&theme=dracula&show_owner=true" />
 </a>                           
                            
-<a href="https://github.com/karn8/Discussion_Forum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=Discussion_Forum&theme=dracula&show_owner=true" />
+<a href="https://github.com/karn8/competitive_coding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&show_owner=true" />
 </a>
   
 <a href="https://github.com/karn8/NotesFlutter">
