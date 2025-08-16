@@ -37,12 +37,6 @@ Here are some ideas to get you started:
 
 [![Lagan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karn8&theme=dracula&layout=compact)](https://github.com/karn8/github-readme-stats)
 
-## &#x1f4c8; GitHub Stats
-
-[![Lagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karn8&count_private=true&show_icons=true&hide=stars&theme=dracula)](https://github.com/karn8/github-readme-stats)
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karn8&theme=dracula&" alt="karn8" /></p>
-
 
 ## 🔭 Top Repos
 
