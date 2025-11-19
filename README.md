@@ -52,9 +52,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&show_owner=true" />
 </a>
   
-<a href="https://github.com/karn8/NotesFlutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=NotesFlutter&theme=dracula&show_owner=true" />
-</a>
 
 ## 📫 How to reach me:
 
