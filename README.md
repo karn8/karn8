@@ -2,7 +2,7 @@
 
 # Hello there! 👋
 
-My name is Karan and I am a Movile Application developer You can find me on [![Twitter][1.2]][1]. Drop me a message, always willing to chat!
+My name is Karan and I am a Business Analyst. I also make Mobile Applications on Flutter. You can find me on [![Twitter][1.2]][1]. Drop me a message, always willing to chat!
 
 <!--
 **karn8/karn8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
