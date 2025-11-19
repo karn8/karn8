@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/karn8/competitive_coding">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&show_owner=true" />
 </a>
+
+<a href="https://github.com/karn8/energy-fuel-mix-optimisation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&show_owner=true" />
+</a>
   
 
 ## 📫 How to reach me:
