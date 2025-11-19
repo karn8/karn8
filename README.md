@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 
 ## 🔭 Top Repos
 
+<a href="https://github.com/karn8/energy-fuel-mix-optimisation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=energy-fuel-mix-optimisation&theme=dracula&show_owner=true" />
+</a>
+
 <a href="https://github.com/karn8/dfq_converter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=dfq_converter&theme=dracula&show_owner=true" />
 </a>                           
@@ -52,11 +56,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&show_owner=true" />
 </a>
 
-<a href="https://github.com/karn8/energy-fuel-mix-optimisation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&show_owner=true" />
-</a>
   
-
 ## 📫 How to reach me:
 
 You can contact me on [Twitter][1] or on [LinkedIn][3]
