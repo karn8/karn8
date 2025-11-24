@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ## 🌱 Technologies Used
 
-[![Lagan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karn8&theme=dracula&layout=compact)](https://github.com/karn8/github-readme-stats)
+[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karn8&theme=dracula&layout=compact)](https://github.com/karn8/github-readme-stats)
 
 
 ## 🔭 Top Repos
