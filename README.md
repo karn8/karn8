@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Karan! 👋
+# 👋 Hey there, I'm Karan!
 **Business Analyst | Flutter Developer | Music Producer**
 
 <p align="center">
@@ -20,45 +20,36 @@ Whether I'm optimizing fuel mix algorithms or building sleek UI with Flutter, I 
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,sql,tableau,aws,github,r&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,sql,tableau,aws,github,r&theme=dark" alt="My Skills" />
 </p>
 
 ---
 
 ### 📊 GitHub Statistics
-| **Top Languages** | **Profile Stats** |
-| :---: | :---: |
-| [![Karan's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karn8&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Karan's Stats](https://github-readme-stats.vercel.app/api?username=karn8&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karn8&show_icons=true&theme=dracula&hide_border=true" alt="Karan's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ### 🔭 Featured Projects
-<div align="center">
+*I build tools that simplify data and enhance user experience.*
 
-  <a href="https://github.com/karn8/energy-fuel-mix-optimisation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=energy-fuel-mix-optimisation&theme=dracula&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/karn8/BeeNine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=BeeNine&theme=dracula&border_radius=10" width="400" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/karn8/dfq_converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=dfq_converter&theme=dracula&border_radius=10" width="400" />
-  </a>
-  <a href="https://github.com/karn8/competitive_coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=karn8&repo=competitive_coding&theme=dracula&border_radius=10" width="400" />
-  </a>
-
-</div>
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **[Energy Fuel Mix](https://github.com/karn8/energy-fuel-mix-optimisation)** | Optimizing fuel resources through data. | Python / Analyst |
+| **[BeeNine](https://github.com/karn8/BeeNine)** | Modern mobile application UI/UX. | Flutter / Dart |
+| **[DFQ Converter](https://github.com/karn8/dfq_converter)** | Specialized data format conversion tool. | Python |
+| **[Coding Prep](https://github.com/karn8/competitive_coding)** | Algorithms and problem-solving patterns. | C++ / Java |
 
 ---
 
 ### ✍️ Creative Corner
-I believe in the harmony of logic and art. You can find my music and compositions here:
+Apart from coding, I make music. Logic and harmony go hand-in-hand.
 [**Listen on Spotify**](https://open.spotify.com) • [**Listen on Apple Music**](https://music.apple.com)
 
 ---
@@ -66,6 +57,5 @@ I believe in the harmony of logic and art. You can find my music and composition
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/KaranGupta8](https://www.linkedin.com/in/KaranGupta8)
 * **Twitter:** [@graphicill](https://twitter.com/graphicill)
-* **Email:** Drop me a DM on any social platform!
 
 </div>
