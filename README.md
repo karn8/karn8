@@ -11,15 +11,6 @@
 
 ---
 
-### 💫 About Me
-I bridge the gap between **data-driven business insights** and **high-performance mobile applications**. 
-Whether I'm optimizing fuel mix algorithms or building sleek UI with Flutter, I love solving complex problems.
-
-🚀 **Current Focus:** Advanced Data Visualization & Flutter State Management
-🎵 **Fun Fact:** When I'm not coding, I'm composing music.
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,sql,tableau,aws,github,r&theme=dark" alt="My Skills" />
@@ -27,30 +18,18 @@ Whether I'm optimizing fuel mix algorithms or building sleek UI with Flutter, I 
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karn8&show_icons=true&theme=dracula&hide_border=true" alt="Karan's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karn8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+### 📊 GitHub Activity
+![](https://img.shields.io/github/followers/karn8?label=Followers&style=for-the-badge&color=7957d5)
+![](https://img.shields.io/github/stars/karn8/energy-fuel-mix-optimisation?label=Project%20Stars&style=for-the-badge&color=ffdd57)
 
 ---
 
 ### 🔭 Featured Projects
-*I build tools that simplify data and enhance user experience.*
-
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[Energy Fuel Mix](https://github.com/karn8/energy-fuel-mix-optimisation)** | Optimizing fuel resources through data. | Python / Analyst |
 | **[BeeNine](https://github.com/karn8/BeeNine)** | Modern mobile application UI/UX. | Flutter / Dart |
 | **[DFQ Converter](https://github.com/karn8/dfq_converter)** | Specialized data format conversion tool. | Python |
-| **[Coding Prep](https://github.com/karn8/competitive_coding)** | Algorithms and problem-solving patterns. | C++ / Java |
-
----
-
-### ✍️ Creative Corner
-Apart from coding, I make music. Logic and harmony go hand-in-hand.
-[**Listen on Spotify**](https://open.spotify.com) • [**Listen on Apple Music**](https://music.apple.com)
 
 ---
 
