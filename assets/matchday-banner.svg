@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Karan Gupta — Analyst Developer</title>
+  <desc id="desc">An animated black and yellow football tactics board connecting data, systems and decisions.</desc>
+
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FDE100" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#FDE100" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FDE100" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#FDE100" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .utility { font: 700 14px Arial, Helvetica, sans-serif; letter-spacing: 3px; }
+    .name { font: 900 70px Arial, Helvetica, sans-serif; letter-spacing: -2px; }
+    .role { font: 700 20px Arial, Helvetica, sans-serif; letter-spacing: 1.2px; }
+    .copy { font: 400 17px Arial, Helvetica, sans-serif; }
+    .label { font: 700 12px Arial, Helvetica, sans-serif; letter-spacing: 1.8px; }
+    .route {
+      stroke-dasharray: 10 12;
+      animation: route 3.8s linear infinite;
+    }
+    .pulse {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: pulse 2.2s ease-in-out infinite;
+    }
+    .pulse.two { animation-delay: .55s; }
+    .pulse.three { animation-delay: 1.1s; }
+    .scanner { animation: scan 5.5s ease-in-out infinite; }
+    .cursor { animation: blink 1.1s steps(2, jump-none) infinite; }
+    @keyframes route { to { stroke-dashoffset: -44; } }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: .82; }
+      50% { transform: scale(1.22); opacity: 1; }
+    }
+    @keyframes scan {
+      0%, 12% { transform: translateX(-700px); opacity: 0; }
+      28%, 72% { opacity: 1; }
+      88%, 100% { transform: translateX(1200px); opacity: 0; }
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .route, .pulse, .scanner, .cursor { animation: none; }
+    }
+  </style>
+
+  <rect width="1200" height="360" rx="22" fill="#111111"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <path d="M0 12Q0 0 12 0H1188Q1200 0 1200 12V20H0Z" fill="#FDE100"/>
+  <rect class="scanner" x="-330" y="20" width="330" height="340" fill="url(#scan)"/>
+
+  <g transform="translate(58 62)">
+    <text class="utility" x="0" y="0" fill="#FDE100">MATCHDAY DOSSIER · 2026</text>
+    <text class="name" x="0" y="86" fill="#F6F5EF">KARAN GUPTA</text>
+    <text class="role" x="3" y="126" fill="#FDE100">ANALYST DEVELOPER · BUSINESS ANALYTICS</text>
+    <path d="M3 151H520" stroke="#FDE100" stroke-width="3"/>
+    <text class="copy" x="3" y="187" fill="#D8D8D2">I turn messy data and complex workflows into</text>
+    <text class="copy" x="3" y="214" fill="#D8D8D2">clear decisions and dependable products.<tspan class="cursor" fill="#FDE100">_</tspan></text>
+
+    <g transform="translate(3 244)">
+      <rect width="102" height="34" rx="17" fill="#FDE100"/>
+      <text class="label" x="51" y="22" fill="#111111" text-anchor="middle">MANCHESTER</text>
+      <text class="label" x="121" y="22" fill="#F6F5EF">UK · INDIA · OPEN TO RELOCATE</text>
+    </g>
+  </g>
+
+  <g transform="translate(760 56)">
+    <rect width="382" height="252" rx="18" fill="#181818" stroke="#FDE100" stroke-width="2"/>
+    <path d="M191 0V252M0 126H382" stroke="#FDE100" stroke-opacity=".22"/>
+    <circle cx="191" cy="126" r="53" fill="none" stroke="#FDE100" stroke-opacity=".22"/>
+    <path d="M26 32H356V220H26Z" fill="none" stroke="#FDE100" stroke-opacity=".13"/>
+
+    <path class="route" d="M74 184C128 172 123 103 191 126S258 78 310 69" fill="none" stroke="#FDE100" stroke-width="3"/>
+    <path class="route" d="M74 184C142 224 252 221 310 181" fill="none" stroke="#F6F5EF" stroke-opacity=".42" stroke-width="2"/>
+
+    <g class="pulse" filter="url(#glow)">
+      <circle cx="74" cy="184" r="12" fill="#FDE100"/>
+      <circle cx="74" cy="184" r="4" fill="#111111"/>
+    </g>
+    <g class="pulse two" filter="url(#glow)">
+      <circle cx="191" cy="126" r="12" fill="#FDE100"/>
+      <circle cx="191" cy="126" r="4" fill="#111111"/>
+    </g>
+    <g class="pulse three" filter="url(#glow)">
+      <circle cx="310" cy="69" r="12" fill="#FDE100"/>
+      <circle cx="310" cy="69" r="4" fill="#111111"/>
+    </g>
+    <circle cx="310" cy="181" r="9" fill="#F6F5EF"/>
+
+    <text class="label" x="52" y="213" fill="#F6F5EF">DATA</text>
+    <text class="label" x="156" y="103" fill="#F6F5EF">SYSTEMS</text>
+    <text class="label" x="273" y="47" fill="#F6F5EF">DECISIONS</text>
+
+    <g transform="translate(302 168)">
+      <circle cx="39" cy="39" r="39" fill="#FDE100"/>
+      <text x="39" y="51" text-anchor="middle" fill="#111111" style="font:900 34px Arial,Helvetica,sans-serif">11</text>
+    </g>
+  </g>
+</svg>
