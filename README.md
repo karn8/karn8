@@ -31,7 +31,7 @@ I work in the space between a business question and a working system. That can m
 
 | Project | What it does | Evidence |
 |---|---|---|
-| **OneCelerity** | Marketing intelligence SaaS that unifies Shopify and Meta Ads data into profit, ROAS, CPA, creative, regional and revenue insights, with a guardrailed AI analyst layer. | [Case study](https://karn8.github.io/karan-gupta-portfolio/#dossier) |
+| **OneCelerity** | Live marketing intelligence SaaS that unifies Shopify and Meta Ads data into profit, ROAS, CPA, creative, regional and revenue insights, with a guardrailed AI analyst layer. | [Website](https://www.onecelerity.com) · [Live engine](https://app.onecelerity.com) · [Case study](https://karn8.github.io/karan-gupta-portfolio/#dossier) |
 | **Orbit LMS** | Production Flutter/Firebase learning platform with role-based workflows, linked profiles, notifications and academic analytics. | [Website](https://orbitlmsapp.com) |
 | **International Coal Optimisation** | Scenario model for fuel selection, emissions constraints, carbon-price sensitivity and SO₂-control investment decisions; achieved 40%+ emissions reduction in strict scenarios. | [Live app](https://international-coal.streamlit.app/) |
 | **StaffSync** | Hospital A&E staffing and analytics prototype for demand patterns, operational constraints and resource-allocation scenarios. | [Live app](https://staffsync.streamlit.app/) |
